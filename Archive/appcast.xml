@@ -3,6 +3,17 @@
     <channel>
         <title>SparkleUpdateTest</title>
         <item>
+            <title>1.1</title>
+            <pubDate>Sat, 11 Mar 2023 10:29:13 +0100</pubDate>
+            <sparkle:version>1.1</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/akaalias/SparkleUpdateTest/main/Archive/SparkleUpdateTest-1.1.dmg" length="1132994" type="application/octet-stream" sparkle:edSignature="Y3vy56m73a2vdlGCcAjyDcxJ5WsyKrSMISIkPzFaN2ZZl2eSWEsiQ5XSfnWNKI0DL5Z1jPsNK14d01oNzSl4Bw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/akaalias/SparkleUpdateTest/main/Archive/SparkleUpdateTest1.1-1.0.delta" sparkle:deltaFrom="1.0" length="17342" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="+Bg+d1t6/Zw4tgpJoe1uLA31Ia6absLobxjlqtzYxphWhv/qrszj+dfJNDMRXZ9M55QyJXtAL1yTZEjv5OlMCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Sat, 11 Mar 2023 10:25:40 +0100</pubDate>
             <sparkle:version>1.0</sparkle:version>
