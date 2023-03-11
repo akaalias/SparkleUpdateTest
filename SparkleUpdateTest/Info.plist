@@ -10,5 +10,7 @@
 	<string>f0zRm+z6FEy4IVmmRrAncTBPwIcLAmm619TLmBMVzXw=</string>
 	<key>SUFeedURL</key>
 	<string>https://github.com/akaalias/SparkleUpdateTest/appcast.xml</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
 </dict>
 </plist>
