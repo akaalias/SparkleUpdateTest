@@ -2,6 +2,7 @@
 
 set -e
 
-rm ./Archive/SparkleUpdateTest.dmg
+echo -n "SparkleUpdateTest-$VERSION.dmg: "
+read VERSION
 
-appdmg ./appdmg.json ./Archive/SparkleUpdateTest.dmg
+appdmg ./appdmg.json ./Archive/SparkleUpdateTest-$VERSION.dmg
