@@ -6,5 +6,9 @@
 	<true/>
 	<key>SUEnableDownloaderService</key>
 	<true/>
+	<key>SUPublicEDKey</key>
+	<string>f0zRm+z6FEy4IVmmRrAncTBPwIcLAmm619TLmBMVzXw=</string>
+	<key>SUFeedURL</key>
+	<string>https://github.com/akaalias/SparkleUpdateTest/appcast.xml</string>
 </dict>
 </plist>
