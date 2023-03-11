@@ -3,6 +3,14 @@
     <channel>
         <title>SparkleUpdateTest</title>
         <item>
+            <title>1.1</title>
+            <pubDate>Sat, 11 Mar 2023 10:19:29 +0100</pubDate>
+            <sparkle:version>1.1</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/akaalias/SparkleUpdateTest/main/Archive/SparkleUpdateTest.dmg" length="1134989" type="application/octet-stream" sparkle:edSignature="VdY68jk0ggHvwXUxo682KVi8A/Zp/LBAIITm1o7j36is/nl3QkMDTfLOoQjDHsE0ocbLOe5TG92wSNVAc6atAw=="/>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Sat, 11 Mar 2023 09:53:51 +0100</pubDate>
             <sparkle:version>1</sparkle:version>
