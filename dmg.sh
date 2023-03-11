@@ -2,4 +2,4 @@
 
 set -e
 
-appdmg ./appdmg.json ./Archives/SparkleUpdateTest.dmg
+appdmg ./appdmg.json ./Archive/SparkleUpdateTest.dmg
