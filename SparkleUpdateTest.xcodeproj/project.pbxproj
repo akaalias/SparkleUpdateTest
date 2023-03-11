@@ -12,7 +12,7 @@
 		5615445B29BC6F16009772F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5615445A29BC6F16009772F4 /* Assets.xcassets */; };
 		5615445E29BC6F16009772F4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5615445D29BC6F16009772F4 /* Preview Assets.xcassets */; };
 		5615446729BC6F2A009772F4 /* Sparkle in Frameworks */ = {isa = PBXBuildFile; productRef = 5615446629BC6F2A009772F4 /* Sparkle */; };
-		5615446929BC6F59009772F4 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5615446829BC6F59009772F4 /* Info.plist */; };
+		5615446A29BC7C17009772F4 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5615446829BC6F59009772F4 /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -138,9 +138,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5615446A29BC7C17009772F4 /* Info.plist in Resources */,
 				5615445E29BC6F16009772F4 /* Preview Assets.xcassets in Resources */,
 				5615445B29BC6F16009772F4 /* Assets.xcassets in Resources */,
-				5615446929BC6F59009772F4 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,18 +280,19 @@
 				CODE_SIGN_ENTITLEMENTS = SparkleUpdateTest/SparkleUpdateTest.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1.0;
+				CURRENT_PROJECT_VERSION = 1.1;
 				DEVELOPMENT_ASSET_PATHS = "\"SparkleUpdateTest/Preview Content\"";
 				DEVELOPMENT_TEAM = HKQARCV8QZ;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SparkleUpdateTest/Info.plist;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.rondeau.SparkleUpdateTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -307,18 +308,19 @@
 				CODE_SIGN_ENTITLEMENTS = SparkleUpdateTest/SparkleUpdateTest.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1.0;
+				CURRENT_PROJECT_VERSION = 1.1;
 				DEVELOPMENT_ASSET_PATHS = "\"SparkleUpdateTest/Preview Content\"";
 				DEVELOPMENT_TEAM = HKQARCV8QZ;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SparkleUpdateTest/Info.plist;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.rondeau.SparkleUpdateTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
